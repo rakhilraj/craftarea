@@ -20,14 +20,14 @@ body {
 -----------------------------------------*/
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'BeyondTheMountains', serif;
+  font-family: 'Lucida Sans Typewriter','Courier New', 'monospac';
   font-style: ;
-  font-weight: bold;
-  letter-spacing: 0.5px;
+  font-weight: bolder;
+  letter-spacing: 4px;
 }
 
 h1 {
-    font-size: 70px;
+    font-size: 110px;
     padding-bottom: 14px;
     margin-bottom: 0px;
 }
